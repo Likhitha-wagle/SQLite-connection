@@ -1,3 +1,7 @@
 # SQLite-connection 
-
-This code is for connecting to SQLite database,creating new database,creating table,inserting data to table and getting data from database
+Conatins following functionalities:
+1. Connecting to SQLite database
+2. Creating new database
+3. Creating Movie table
+4. Inserting data to table
+5. Query data from database using SELECT query for getting all rows from Movie table,SELECT query on actor name
